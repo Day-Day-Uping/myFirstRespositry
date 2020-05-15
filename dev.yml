@@ -1,1 +1,2 @@
-dscscsc
+server:
+  port: 3344
