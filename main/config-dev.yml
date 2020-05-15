@@ -1,2 +1,2 @@
-server1:
-  port1: 3344
+config:
+ info: master branch,myFirstRespositry/config-dev.yml version=1
